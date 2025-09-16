@@ -20,5 +20,7 @@ Statistics → Applying statistics to extract meaningful business insights.
 I enjoy working with data to find useful patterns and insights. My aim is to grow as a Data Analyst and use my skills to help solve real-world business problems with data-driven decisions.
 
 ⚡ Core Skills: Excel | SQL | Python | Power BI | Data Analysis | Statistics | Data Modeling | Data Mining | Problem Solving | Business Intelligence
-📃 My Resume → Vignesh prasad S    ResumeSOV1.pdf
+
+📃 My Resume →[ Vignesh prasad S ResumeSOV1.pdf](https://github.com/MrVPS357/Mr-VigneshPrasad-S-Data-Analyst-Portfolio/edit/main/README.md#:~:text=README.md-,Vignesh%20prasad%20S%20ResumeSOV1.pdf,-Editing%20README.md)
+
 📂 Check out my repositories for projects in Excel, SQL, Python, and Power BI, where I showcase end-to-end workflows from raw data to insights.
