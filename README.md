@@ -20,5 +20,5 @@ Statistics → Applying statistics to extract meaningful business insights.
 I enjoy working with data to find useful patterns and insights. My aim is to grow as a Data Analyst and use my skills to help solve real-world business problems with data-driven decisions.
 
 ⚡ Core Skills: Excel | SQL | Python | Power BI | Data Analysis | Statistics | Data Modeling | Data Mining | Problem Solving | Business Intelligence
-
+📃 My Resume → 
 📂 Check out my repositories for projects in Excel, SQL, Python, and Power BI, where I showcase end-to-end workflows from raw data to insights.
